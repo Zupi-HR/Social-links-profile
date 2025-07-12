@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/Zupi-HR/Social-links-profile)
+- Live Site URL: [Live Version](https://zupi-hr.github.io/Social-links-profile/)
 
 ## My process
 
